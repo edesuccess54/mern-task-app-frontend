@@ -1,3 +1,4 @@
-## Getting Started with Create React App
+## Mern Stack Task Manager
+this is a min Mern Stack App Manager. it keeps track of task.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
